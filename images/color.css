@@ -1,0 +1,14 @@
+nav li{
+    list-style: none;
+    display: inline;
+    margin-right: 9px;
+    
+
+}
+nav li a{
+    text-decoration: none;
+    color: black;
+}
+nav li:hover{
+    background-color: rgb(36, 79, 221);
+}
