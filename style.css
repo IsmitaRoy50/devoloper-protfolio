@@ -37,13 +37,23 @@ nav li{
 
 }
 .btn{
-    height:64px ;
-    border-radius:5px ;
+    /* height:64px ; */
+    border-radius:10px ;
     color: #FFF8F3;
     background-color: #FD6E0A;
     font-weight: 700px;
     font-size: 20px;
     padding: 18px 35px;
+}
+.bttn{
+
+border-radius:5px ;
+
+color: #363432;
+background-color: #fcd6bc;
+font-weight: 700px;
+font-size: 20px;
+padding: 10px 20px;
 }
 /* banner */
 
