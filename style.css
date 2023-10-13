@@ -48,7 +48,7 @@ nav li{
 .bttn{
 
 border-radius:5px ;
-
+border: none;
 color: #363432;
 background-color: #fcd6bc;
 font-weight: 700px;
